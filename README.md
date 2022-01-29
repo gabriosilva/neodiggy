@@ -1,5 +1,5 @@
 # NeoDiggy
-A python version of the infamous [Diggy](https://github.com/s0md3v/Diggy) APK endpoint extractor.
+NeoDiggy is a python version of the infamous [Diggy](https://github.com/s0md3v/Diggy) APK endpoint extractor.
 
 It servers the same purpose as of extracting URLs and endpoints from Android Application Packs (APKs)
 
