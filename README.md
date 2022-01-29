@@ -9,7 +9,9 @@ It servers the same purpose as of extracking URLs and endpoints from Android App
 - Apktool
 
 ## Usage
-`./main.py /path/to/apk/app.apk
+```
+./main.py /path/to/apk/app.apk
+```
 
 ## Author
 The original project, in its bash script version, can be found here https://github.com/s0md3v/Diggy
